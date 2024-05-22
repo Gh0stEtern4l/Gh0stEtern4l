@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Gh0stEtern4l
-- 👀 I’m interested in Minecraft Hacked Client development!
-- 🌱 I’m currently learning Java, HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on Minecraft Client Building and Creating
-- 📫 How to reach me lun4rgh0st - @Discord.com
+- 👀 I’m interested in Discord Bot Development!
+- 🌱 I’m currently learning Python, HTML, CSS, JavaScript
+- 💞️ I’m looking to collaborate on Making discord bots
+- 📫 How to reach me outerpsycho - @Discord.com
 - 😄 Pronouns: Dont/gaf :)
 - ⚡ Fun fact: Did you know, that you now have type 2 Chakra?
 
