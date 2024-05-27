@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gh0stEtern4l
-- 👀 I’m interested in Discord Bot Development!
-- 🌱 I’m currently learning Python, HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on Making discord bots
+- 👀 I’m interested in C# Cheat making!
+- 🌱 I’m currently learning Python, HTML, CSS, C# <--- Big Language HERE
+- 💞️ I’m looking to collaborate on making cheat menus for games
 - 📫 How to reach me outerpsycho - @Discord.com
 - 😄 Pronouns: Dont/gaf :)
 - ⚡ Fun fact: Did you know, that you now have type 2 Chakra?
